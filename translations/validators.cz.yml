@@ -1,0 +1,6 @@
+Password length must be at least {{ limit }} characters long: Heslo musi byt nejmin {{ limit }} pismen
+Passwords mismatch: Obě hesla musí být stejná
+Please upload a valid image: Prosim, nahrajte platný obrázek  (.jpeg)
+The password fields must match.: Obě policky hesel musí být stejná
+Title must be unique:Titul musí být jedinečný 
+Username is already exists: Přezdívka je obsazená
